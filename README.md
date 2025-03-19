@@ -19,14 +19,15 @@ This project implements a high-frequency triangular arbitrage strategy to identi
 
 🏗️ Project Structure
 
-📂 arbitrage-trading-strategies  
-├── 📂 data  
-│   └── sample_data.json  
-├── 📂 strategies  
-│   └── triangular_arbitrage.py  
-├── main.py  
-├── requirements.txt  
-└── README.md  
+├── data
+│   └── sample_data.json
+├── strategies
+│   └── triangular_arbitrage.py
+├── .gitignore
+├── LICENSE
+├── README.md
+├── main.py
+└── requirements.txt  
 
 🏆 Why This Works
 1. Currency arbitrage relies on the fact that exchange rates between three currencies are not always perfectly aligned.
